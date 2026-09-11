@@ -23,11 +23,7 @@ A Python calculator program with basic arithmetic, exponent, logarithmic, and tr
 ## Installation
 
 1. Clone the repository
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-   (No external dependencies are required beyond Python's standard library `math` module.)
+2. No external dependencies are needed — this project uses only Python's standard library (`math` module).
 
 ## Usage
 
